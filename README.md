@@ -9,9 +9,5 @@ This using template from create-react-app. For more info se [this](https://githu
 
 Used technologies:
 - ReactJs
-
-
-(https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-## Table of Contents
-
+- HTML5
+- CSS3
