@@ -89,11 +89,28 @@
     border-radius: 15px;
 }
 
+.SoyMeat
+{
+    width: 82%;
+    height: 8%;
+    background: linear-gradient(#d4956e, #b65a21);
+    margin: 2% auto;
+    border-radius: 15px;
+}
+
 .Cheese {
     width: 90%;
     height: 4.5%;
     margin: 2% auto;
     background: linear-gradient(#f4d004, #d6bb22);
+    border-radius: 20px;
+}
+
+.SoyCheese {
+    width: 93%;
+    height: 4.5%;
+    margin: 2% auto;
+    background: linear-gradient(#e9db8b, #cabc6e);
     border-radius: 20px;
 }
 
@@ -111,3 +128,11 @@
     background: linear-gradient(#bf3813, #c45e38);
     margin: 2% auto;
 }
+
+.VegBacon {
+    width: 83%;
+    height: 3%;
+    background: linear-gradient(#a83718, #70280e);
+    margin: 2% auto;
+}
+
