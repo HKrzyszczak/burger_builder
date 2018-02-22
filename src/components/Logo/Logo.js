@@ -8,4 +8,4 @@ const logo = (props) => (
   </div>
 );
 
-export default logo;
+export default logo; 
