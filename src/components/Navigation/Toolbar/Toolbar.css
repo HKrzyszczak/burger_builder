@@ -12,8 +12,19 @@
   padding: 0 20px;
   box-sizing: border-box;
   z-index: 90;
+  box-shadow: 0 3px 5px 0 #381919;
 }
 
 .Toolbar nav {
   height: 100%;
+}
+
+.Logo {
+  height: 80%;
+}
+
+@media (max-width: 499px) {
+  .DesktopOnly {
+    display: none;
+  }
 }
