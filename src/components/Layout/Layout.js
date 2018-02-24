@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
+=======
+import React from 'react';
+>>>>>>> abb154250ae78ef7e7f7882bfe41ca7eea7b2ffd
 import classes from './Layout.css';
 import Aux from '../../hoc/ReactAux';
 import Toolbar from '../Navigation/Toolbar/Toolbar';

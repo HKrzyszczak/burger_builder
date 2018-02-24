@@ -19,7 +19,6 @@
   color: #40a4c8;
 }
 
-
 @media (min-width: 500px) {
   .NavigationItem {
     margin: 0;
@@ -43,5 +42,5 @@
     background-color: #8f5c2c;
     border-bottom: 4px solid #40a4c8;
     color: white;
-  }  
+  } 
 }
